@@ -1,13 +1,13 @@
 # Site settings
 title:          Rain
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            "" #todo - dodati url
+url:            https://github.com/inelaah/rain
 
 # Author
 author:
   name:         Inela Avdic Hukic
   email:        inelaah@gmail.com
-  #todo  url:   dodati url
+  url:          https://inelaah.com
 
 # Build settings
 markdown:       kramdown
