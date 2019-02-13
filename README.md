@@ -119,8 +119,7 @@ You can see an example of post structure in `_posts` directory. After you clone 
 ## Build and serve
 
 ```
-bundle exec
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Head over to http://127.0.0.1:4000/ to see your page.
