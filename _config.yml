@@ -1,7 +1,7 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          Jaeochoiii.Blog
+description:    "꾸준히 develop 하는 developer 입니다"
+url:            https://jaeochoii.github.io
 
 # Author
 author:
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: chlwodh0716@gmail.com
+  github: https://github.com/jaeochoii
+  twitter: https://www.instagram.com/uh_jaeo_neul/
+  linkedin: https://velog.io/@jaeochoiii
