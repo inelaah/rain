@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          Homebush - Where Life Stories Unfold
+description:    "Welcome to a journey of growth and discovery with a twist of humor and wisdom. Here, a mid-aged man embarks on an adventure in homeschooling, shares the warmth of baking, and unveils clever life hacks. It's a candid chronicle of failures and satisfactions, a testament to the fact that learning and laughter don't have an age limit. Dive into the stories that make life a little more interesting and a lot more fun."
+url:            https://https://weshouldask.github.io/
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Sein L
+  email:        seinlim@outlook.com
+  url:          https://weshouldask.github.io/homebush
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: seinlim@outlook.com
+  github: https://weshouldask.github.io
+ # twitter: https://twitter.com
+ # linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
